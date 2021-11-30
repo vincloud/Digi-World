@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Passions+Conflict&family=Shalimar&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+#ti{
+    color: aqua;
+    font-family: 'Dancing Script', cursive;
+}
+.firsts{
+   border-style: groove;
+}
+
+.icon-fot{
+font-size: 50px;
+color: rgb(38, 0, 255);
+}
+
+#cat{
+    color: rgba(245, 245, 245, 0.719);
+    text-decoration: none;
+    
+}
+.mb-3 a:hover{
+    
+color: 2px solid rgb(128, 0, 96);
+
+}
+
+.social{
+  font-size: 18px;
+  
+}
+
+.m-sm-1{
+  display: inline;
+
+}
+
+
+
